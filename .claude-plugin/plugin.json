@@ -1,0 +1,7 @@
+{
+  "name": "word-tutor",
+  "version": "0.1.0",
+  "description": "Ask about unfamiliar coding terms in a side pane, without adding to the main conversation's context",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
